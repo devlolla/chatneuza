@@ -14,9 +14,9 @@ import BtnForward from '../../Button';
 function Rating({ handleNext }) {
   const [submit, setSubmit] = useState(false)
 
-  const [/* rating */, setRating] = useState(null);
+  const [rating, setRating] = useState(null);
   const [hoverRating, setHoverRating] = useState(null)
-
+  console.log(rating)
   return (
     <div>
       <Message variant="bot">
