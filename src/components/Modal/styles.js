@@ -36,7 +36,7 @@ export const StyledModal = styled.div`
   p {
     width: 100%;
     max-width: 350px;
-    padding: 0 45px 45px;
+    padding: 0 10px 10px;
 
     font-size: 18px;
     line-height: 25px;
