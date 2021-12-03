@@ -4,6 +4,8 @@
 <h1> Esse Bot simples foi desenvolvido para realizar pesquisas com usuários, consumindo uma API feita no mockAPI. </h1>
 </div>
 
+>Link do Deploy:
+- https://chatneuza-azgvwgwot-neuza.vercel.app/
   
 >Methods usados:
 - POST
