@@ -18,6 +18,11 @@ export const MessageArea = styled.div`
   max-width: 428px;
   height: 100%;
   max-height: 550px;
+
+  @media(max-width: 700px) {
+    max-height: 100%;
+
+  }
   
   border-radius: 0px 0px 5px 5px;
   box-sizing: border-box;

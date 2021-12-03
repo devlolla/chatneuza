@@ -13,8 +13,8 @@ function Modal({ setModalVisible }) {
           Agradecemos pelo tempo testando esse bot muito fofo ! <br />
         </p>
         <p>
-          Seus dados estão seguros com a gente
-        </p>❤️
+          Seus dados estão seguros com a gente ❤️
+        </p>
         <ButtonClose setModalVisible={setModalVisible} />
       </StyledModal>
     </Container >

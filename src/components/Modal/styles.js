@@ -13,7 +13,7 @@ export const Container = styled.div`
 export const StyledModal = styled.div`
   width: 100%;
   max-width: 320px;
-  height: 400px;
+  height: 435px;
   
   display: flex;
   align-items: center;
@@ -36,7 +36,7 @@ export const StyledModal = styled.div`
   p {
     width: 100%;
     max-width: 350px;
-    padding: 0 10px 10px;
+    padding: 0 0px 25px;
 
     font-size: 18px;
     line-height: 25px;
